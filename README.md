@@ -33,6 +33,10 @@ Q: Then how-
 
 A: im gonna get the people who worked on Birdvirus Bot to do it lmao
 
+Q: How does this actually stop spam bots if it's an email platform?
+
+A: Because it’s not tied to normal email, and there is NO PLANNED API. If a bot wants to spam someone, some script kiddie is going to have to manually click through a million pages to make a million Pass-Ports. They won't bother.
+
 Q: Is this FAQ done yet?
 
 A: yes. continue githubbing.
